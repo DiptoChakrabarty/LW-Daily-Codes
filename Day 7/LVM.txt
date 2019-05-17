@@ -1,0 +1,12 @@
+1)Make Full space partition of both 4 and 8 GB 
+2) pvcreate /dev/sdc1     //Create  physical volume 
+   pvcreate /dev/sdd1		
+3) pvdisplay /dev/sd{c,d}	//Confirm pvs
+4) vgcreate vg1{name of vg} /dev/sdc1  /dev/sdd1     //make Volume groups
+5) vgdisplay vg1   //shows vgs
+6) lvcreate --size 10G --name mylv1{name of lv we make } vg1
+7) lvdisplay
+8) mkfs.ext4 /dev/vg1/mylv1   //format
+9) mkdir /newpart      //folder to mount
+10) mount /dev/vg1/mylv1   /newpart       //mount
+11) df -h //see  partitions
