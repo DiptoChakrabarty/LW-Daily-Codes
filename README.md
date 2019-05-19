@@ -1,6 +1,26 @@
 # LW-Daily-Codes
 Daily Codes designed in LW
 
+## DAY 3 :
+* Detecting Face using Har-Cascade in photo and video
+* Finding coordinates of eyes using Har-Cascade 
+* Understanding and Implementing Linux commands 
+* A brief about shell and bashrc file
+## Drive Link : https://drive.google.com/drive/folders/1HVSCWDFsDM8IyARP2Kx62fLV6qG8ikgq
+## DAY 4 :
+* Introduction to  AWS cloud 
+* Linear Regression and its concepts 
+* Using Linear Regression to predict Salaries of employees
+* More about dockers and Linux
+## Drive Link : https://drive.google.com/drive/folders/1nCsHQktGVmkhGeiDapgVO_5R_joGVTwJ
+
+## DAY 5 :
+* Dockers Sharing files between Host and docker Os
+* Yum creation 
+* Httpd Web Servers 
+* About partitions
+##Drive Link : https://drive.google.com/drive/folders/1a-qmxneSJy4XqiH2M2uzNx9BiGDeNy8b
+
 ## DAY 6 : 
 
 * Python code to run multiple docker files with Unique ids and yum installed 
@@ -12,5 +32,6 @@ Daily Codes designed in LW
 
 * Train and Test split dataset for Machine Learning 
 * Mean absolute error and Mean squared error 
-* Lvm to combine hard disk space of two separate pendrives 
+* Lvm to combine hard disk space of two separate pendrives
+* Running GUI based applications on Docker  
 ##  Drive Link : https://drive.google.com/drive/folders/1AKZSF9H5qtImKPnVk264D_fcmd8Qr8mk
