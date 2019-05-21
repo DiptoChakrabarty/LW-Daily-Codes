@@ -1,0 +1,8 @@
+Commands to Run Camera or Gui programs in Docker
+
+docker run -it --device /dev/video0 --name latest -v /run/media/root/RHEL-7.5\ Server.x86_64:/dvd -v /root/Desktop/python_lib:/python_lib  -v /root/Desktop/rhel7_extra_new_rpm:/rpm -v /root/Desktop/rhel7_5_rpm_extras:/rpm_extras -v /tmp/.X11-unix:/tmp/.X11-unix  -e DISPLAY=$DISPLAY centos
+
+# /tmp/.X11-unix has files to set DISPLAY =:0 which is missing in docker
+
+
+

@@ -1,0 +1,9 @@
+Steps to install and run docker in Red Hat
+
+yum install docker  //install docker 
+systemctl restart docker  //Starts docker in the system
+docker images  // shows the docker images(OS present )
+docker pull ubuntu :14.04  //command to install ubuntu online way
+docker load -i ubuntu-14.04 tar  //loads ubuntu from drive
+docker  ps  -a  //how many dockers are launched and running in background 
+docker run -it ubuntu:14.04   //Enter docker
