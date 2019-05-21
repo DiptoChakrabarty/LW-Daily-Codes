@@ -6,6 +6,7 @@ Daily Codes designed in LW
 * Finding coordinates of eyes using Har-Cascade 
 * Understanding and Implementing Linux commands 
 * A brief about shell and bashrc file
+* Intro to numpy
 ## Drive Link : https://drive.google.com/drive/folders/1HVSCWDFsDM8IyARP2Kx62fLV6qG8ikgq
 ## DAY 4 :
 * Introduction to  AWS cloud 
@@ -19,6 +20,7 @@ Daily Codes designed in LW
 * Yum creation 
 * Httpd Web Servers 
 * About partitions
+* Intro to pandas
 ##Drive Link : https://drive.google.com/drive/folders/1a-qmxneSJy4XqiH2M2uzNx9BiGDeNy8b
 
 ## DAY 6 : 
