@@ -1,0 +1,7 @@
+1) Reboot System 
+2) Press e
+3) rd.break and enforcing=0   // to stop SElinux firewall temporarily and enter root cli
+4) mount -o remount,rw /sysroot
+5) chrot /sysroot
+6) exit exit
+7) restorecon /etc/shadow  //reset shadow file (where passwords stored)
