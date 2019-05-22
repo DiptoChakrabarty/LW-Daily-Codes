@@ -37,3 +37,25 @@ Daily Codes designed in LW
 * Lvm to combine hard disk space of two separate pendrives
 * Running GUI based applications on Docker  
 ##  Drive Link : https://drive.google.com/drive/folders/1AKZSF9H5qtImKPnVk264D_fcmd8Qr8mk
+
+## DAY 8 :
+
+* Multivariable Linear Regression 
+* Model Optimization
+
+## DAY 9 :
+
+* OLS model
+* P values and Mean R squared 
+* Connect docker with camera
+* Web Server in docker
+
+
+## DAY 10 :
+
+* Introduction to  Deep Learning 
+* Password Reset of root 
+
+# DAY 11 :
+
+* Multivariable Deep Learning 
