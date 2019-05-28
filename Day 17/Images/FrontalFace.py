@@ -1,6 +1,5 @@
 import cv2
-
-face=cv2.CascadeClassifier("/root/Desktop/Github/CV/haarcascade_frontalface_default.xml")
+cv2.CascadeClassifier("/root/Desktop/Github/CV/haarcascade_frontalface_default.xml")
 cap=cv2.VideoCapture(0)
 ret,photo=cap.read()
 cr=face.detectMultiScale(photo)
